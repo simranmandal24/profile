@@ -1,0 +1,269 @@
+
+body{
+    background-color: rgb(212, 203, 203);
+
+    
+}
+
+.home{
+    background-color:white;
+    height: 100vh;
+
+  
+       
+}
+
+.nav{
+     margin-top: 0%;    
+     display: flex;
+     height: 80px;
+     width: 100%;
+     border: 6px solid rgb(196, 166, 195);
+     
+        
+
+}
+.h1{
+    color: orchid;
+    font-size: 3em;
+    margin-top:30px;
+    /* text-decoration:line-through rgb(209, 184, 208); */
+  
+}
+.icon{
+    height: 30px;
+    width: 40px;
+    margin-top: 0%;
+
+}
+.menu{
+    display: inline-block;
+    
+   margin-left: 500px;
+   color: orchid;
+   font-size: 1em;
+   justify-content: space-around 50px;
+   display: inline-flex;
+  
+}
+
+
+    
+    
+
+.image{
+   
+    
+    
+    height: 400px;
+    width: 300px;
+    margin-top: 100px;
+    float: left;
+    margin-left: 200px;
+     
+     background: url(img.back.jpg) no-repeat center center/cover; 
+     
+    
+}
+.para{
+    margin: 200px;
+  
+    font-size: 1.5em;
+    
+    
+
+}
+
+.button{
+     border-radius: 20px ;
+     background-color: rgb(221, 215, 220);
+     border: 2px solid orchid;
+     font-size: 1em;
+     cursor: pointer;
+     margin-top: 0%;
+     
+}
+.arrow{
+    height: 20px;
+    width: 50px;
+    
+}
+.about2{
+    height: 100vh;
+    text-align: center;
+    background: url(bgimg3.webp) no-repeat center center/cover; 
+    
+}
+
+.HA{
+    color: rgb(192, 139, 190);
+    font-size: 4em;
+    text-align: center;
+    /* margin-top: 100px; */
+
+    
+}
+.dpara{
+   text-align: center;
+     height: 100px;
+    width:600px ;
+    margin-left: 300px;
+    color: rgb(12, 5, 5);
+   
+
+    font-size: 1.6em;
+    margin-top: 0px;
+       
+
+   
+}
+.aimag{
+    margin: 50px;
+    border-radius: 50%;
+
+}
+.details{
+    float: left;
+    background-color: thistle;
+    height:800px;
+    width: 380px;
+    margin-top: 0%;
+    font-size:1.5em;
+
+
+}
+.dicons{
+    text-align: center;
+    width: 700px;
+    height: 100px;
+    /* float: right; */
+    margin-right: 200px;
+    display: inline-block;
+    justify-content: space-between px;
+   margin-bottom: 60px;
+}
+.skills{
+    width: 40px;
+    height: 40px;
+   display: inline-flex;
+   justify-content: space-around 50px;
+   margin: 30px;
+   margin-top: 0%;
+   
+    
+    height: 20px;
+   
+   
+}
+.sicon{
+    height: 30px;
+    width: 40px;
+    display: inline-flex;
+    justify-content: space-around 20px;
+   
+
+}
+.cards{
+    display: inline-block;    
+    width: 25%;
+    background-color: rgb(209, 170, 208);
+    border-radius: 2%;
+    height:300px;
+    margin: 40px;
+    box-shadow: 2px 2px 10px gray;
+    object-fit: cover;
+    text-align: center;
+    color: white;
+    
+    
+
+    
+    
+}
+.cards :hover{
+    box-shadow: 2px 2px 10px gray;
+    
+}
+
+.cimg{
+    height: 150px;
+    width: 100%;
+    
+}
+.hr2{
+    height: 4px;
+    background-color: orchid;
+    width: 1300px;
+    margin-top: 100px;
+    
+
+
+
+}
+
+.hr1{
+    height: 4px;
+    background-color: orchid;
+    width: 1300px;
+    margin-top: 100px;
+}
+.pdiv{
+    text-align: center;
+    font-size: 2em;
+    color:  rgb(173, 75, 170); 
+}
+.cv{
+    
+    text-align: left;
+    font-size: 1.4em;
+    width: 600px;
+  margin-left: 500px;
+    
+    
+    
+    
+}
+
+
+.cvh{
+    text-align: center;
+    color:  rgb(173, 75, 170) ;
+}
+.contact{
+       text-align: center;
+    
+
+}
+
+.Form{  
+    
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    flex-direction: column;    
+    gap: 20px; 
+    height: 300px;
+    width: 400px; 
+     
+
+    
+    
+}
+.portfolio{
+    /* background-color: whitesmoke; */
+}
+.ch{
+    text-align: center;
+    color:  rgb(173, 75, 170) 
+
+}
+
+
+
+
+
+
+
+
